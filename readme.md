@@ -36,11 +36,6 @@ A simple and user-friendly Android app built with **Kotlin** to help users manag
 - **MPAndroidChart** (for visualizing expenses)
 - **Material Components** (UI)
 
-## Screenshots
-
-| Dashboard | Add Transaction | Transaction List | Budget |
-|----------|------------------|------------------|--------|
-| *Add screenshots here* |
 
 ## Installation
 
